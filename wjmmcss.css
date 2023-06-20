@@ -1,0 +1,29 @@
+@charset "utf-8";
+.logo_div {
+    height: 150px;
+    width: 200px;
+    margin-top: 19px;
+    margin-right: 67px;
+    margin-left: 618px;
+    margin-bottom: 43px;
+    float: left;
+}
+.nr_div {
+    border-radius: 20px;
+    margin-top: 212px;
+    margin-right: 276px;
+    margin-left: 527px;
+    margin-bottom: 144px;
+    background-color: #FFFFFF;
+    width: 475px;
+    height: 388px;
+}
+.textjz {
+    text-align: center;
+}
+.zdq {
+    text-align: left;
+}
+.ydq {
+    text-align: right;
+}

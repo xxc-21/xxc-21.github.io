@@ -1,0 +1,16 @@
+@charset "utf-8";
+.inav {
+    text-align: center;
+    color: #EE9B36;
+    font-size: 96px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
+}
+.wallpaperts {
+    top: 0;
+    left: 0;
+    transition: all 0.5s;
+}
+.wallpaperts:hover {
+    transform: scale(1.05);
+}

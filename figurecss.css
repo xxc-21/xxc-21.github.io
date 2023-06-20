@@ -1,0 +1,39 @@
+@charset "utf-8";
+.text1 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #EF7609;
+}
+.text2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #070707;
+}
+.text3 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #0980B6;
+}
+.text4 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #B5CA1C;
+}
+.text5 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #484F4B;
+}
+.text6 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+.figurets {
+    top: 0;
+    left: 0;
+    transition: all 0.5s;
+}
+.figurets:hover {
+    transform: scale(1.05);
+}
